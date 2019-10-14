@@ -1,0 +1,27 @@
+{
+  "tenantId": "bh",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "tenants": [
+        {
+          "code": "bh.sonpur"
+        },
+        {
+          "code": "bh.hajipur"
+        },
+        {
+          "code": "bh.fatuha"
+        },
+        {
+          "code": "bh.danapur"
+        },
+        {
+          "code": "bh.biharsharif"
+        }
+      ]
+    }
+  ]
+}

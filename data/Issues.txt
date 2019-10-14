@@ -1,0 +1,2 @@
+Need AWS S3 or Azue equivalent to store Logos
+District Code, ULB Grade, ULB Code, Region Code, Region Name to be clarified from CP Rawat

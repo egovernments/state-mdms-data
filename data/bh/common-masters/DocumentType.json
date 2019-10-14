@@ -1,0 +1,14 @@
+{
+    "tenantId": "bh",
+    "moduleName": "common-masters",
+    "DocumentType": [
+        {
+            "code": "OWNERIDPROOF",
+            "active": true
+        },
+        {
+            "code": "OWNERSHIPPROOF",
+            "active": true
+        }
+    ]
+}

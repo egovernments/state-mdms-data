@@ -1,0 +1,864 @@
+{
+  "tenantId": "bh.sonpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sonpur",
+        "localname": "Sonpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "bh.sonpur",
+        "children": [
+          {
+            "id": "7020e5b3-9934-4fb5-9fb5-9e0fac093bae",
+            "boundaryNum": 1,
+            "name": "Circle 1",
+            "localname": "Circle 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "C01",
+            "children": [
+              {
+                "id": "45b3312f-c03a-49b5-b6f9-c56f490cc418",
+                "boundaryNum": 1,
+                "name": "Ward 1 - Pravezabad",
+                "localname": "Ward 1 - Pravezabad",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 1 Pravezabad",
+                "children": [
+                  {
+                    "id": "3fcc6f87-00dc-4be8-96d8-7a962e084c9f",
+                    "boundaryNum": 1,
+                    "name": "Parvejabad - WARD 1 Pravezabad",
+                    "localname": "Parvejabad - WARD 1 Pravezabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC01",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a72a75d7-8177-442c-ba76-63006d4a02c6",
+                    "boundaryNum": 1,
+                    "name": "Chandmari Road - WARD 1 Pravezabad",
+                    "localname": "Chandmari Road - WARD 1 Pravezabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC02",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "279c360b-a143-4ffc-b4ba-fb1125f0467e",
+                    "boundaryNum": 1,
+                    "name": "Gola Mandi - WARD 1 Pravezabad",
+                    "localname": "Gola Mandi - WARD 1 Pravezabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b5fab0f6-c498-4ea4-8cf6-7fb4f8ef029f",
+                "boundaryNum": 1,
+                "name": "Ward 2 - Pravezabad Dudhaila",
+                "localname": "Ward 2 - Pravezabad Dudhaila",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 2 Pravezabad Dudhaila",
+                "children": [
+                  {
+                    "id": "91eaf7bc-ee1d-4d86-bdf0-732f34f256a5",
+                    "boundaryNum": 1,
+                    "name": "Dudhaila Market Road - WARD 2 Pravezabad Dudhaila",
+                    "localname": "Dudhaila Market Road - WARD 2 Pravezabad Dudhaila",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC04",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9c376176-555a-446b-b678-45f17a5fa8c2",
+                    "boundaryNum": 1,
+                    "name": "Chowa Godam - WARD 2 Pravezabad Dudhaila",
+                    "localname": "Chowa Godam - WARD 2 Pravezabad Dudhaila",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC05",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "20cfda78-f7a6-4df8-8321-4408631982d7",
+                    "boundaryNum": 1,
+                    "name": "Math Road - WARD 2 Pravezabad Dudhaila",
+                    "localname": "Math Road - WARD 2 Pravezabad Dudhaila",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC06",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b6a9de3e-6250-45c2-9a5b-d37bba57231e",
+                    "boundaryNum": 1,
+                    "name": "Mugal Cainal - WARD 2 Pravezabad Dudhaila",
+                    "localname": "Mugal Cainal - WARD 2 Pravezabad Dudhaila",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC07",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6d4659cf-b032-46b7-8479-07fa7c4c171b",
+                "boundaryNum": 1,
+                "name": "Ward 3 - Pravezabad Paharichak",
+                "localname": "Ward 3 - Pravezabad Paharichak",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 3 Pravezabad Paharichak",
+                "children": [
+                  {
+                    "id": "d8651a21-5f5a-472e-997c-f09cdc423f24",
+                    "boundaryNum": 1,
+                    "name": "Railway 1 no Dhala Road - WARD 3 Pravezabad Paharichak",
+                    "localname": "Railway 1 no Dhala Road - WARD 3 Pravezabad Paharichak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC08",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "565ab6b0-e3ff-4374-a9a8-63fc15b01ed5",
+                    "boundaryNum": 1,
+                    "name": "Pahlejaghat - WARD 3 Pravezabad Paharichak",
+                    "localname": "Pahlejaghat - WARD 3 Pravezabad Paharichak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC09",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d57ac061-9312-4e17-8b6c-01332b8769d9",
+                    "boundaryNum": 1,
+                    "name": "Hariharnath Road - WARD 3 Pravezabad Paharichak",
+                    "localname": "Hariharnath Road - WARD 3 Pravezabad Paharichak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64c3649d-82b4-4681-a6bf-f0685dd57a51",
+                "boundaryNum": 1,
+                "name": "Ward 4 - Paharichak",
+                "localname": "Ward 4 - Paharichak",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 4 Paharichak",
+                "children": [
+                  {
+                    "id": "2d1a83c9-6003-46fc-b553-e98a526c797e",
+                    "boundaryNum": 1,
+                    "name": "Paharichak - WARD 4 Paharichak",
+                    "localname": "Paharichak - WARD 4 Paharichak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "316e5c26-7274-420a-bb44-2c8b055738c3",
+                "boundaryNum": 1,
+                "name": "Ward 5 - Paharichak",
+                "localname": "Ward 5 - Paharichak",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 5 Paharichak",
+                "children": [
+                  {
+                    "id": "016e048c-6f73-4d0b-b445-f4c700f9c0be",
+                    "boundaryNum": 1,
+                    "name": "Paharichak - WARD 5 Paharichak",
+                    "localname": "Paharichak - WARD 5 Paharichak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89012bc0-dc60-4f48-a54e-a4c330dc0aa6",
+                "boundaryNum": 1,
+                "name": "Ward 6 - Paharichak",
+                "localname": "Ward 6 - Paharichak",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 6 Paharichak",
+                "children": [
+                  {
+                    "id": "e7e90ebb-466b-4967-bf34-fed15ee189b9",
+                    "boundaryNum": 1,
+                    "name": "Paharichak gachi - WARD 6 Paharichak",
+                    "localname": "Paharichak gachi - WARD 6 Paharichak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0f628bf8-7af1-41d1-8730-ea5956c11420",
+                    "boundaryNum": 1,
+                    "name": "Barbatta New Tola - WARD 6 Paharichak",
+                    "localname": "Barbatta New Tola - WARD 6 Paharichak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "023b067c-2ef5-4f7f-bf32-a5bb88cb3f6a",
+                    "boundaryNum": 1,
+                    "name": "Brindaban Colony - WARD 6 Paharichak",
+                    "localname": "Brindaban Colony - WARD 6 Paharichak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2204ed3f-8df9-4239-88aa-b9af0e8ae2e4",
+                    "boundaryNum": 1,
+                    "name": "Durga Colony - WARD 6 Paharichak",
+                    "localname": "Durga Colony - WARD 6 Paharichak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c52e7563-f699-47ca-be52-2b282e19a7fc",
+                "boundaryNum": 1,
+                "name": "Ward 7 - Akilpur Babhangawa",
+                "localname": "Ward 7 - Akilpur Babhangawa",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 7 Akilpur Babhangawa",
+                "children": [
+                  {
+                    "id": "d486411e-1167-48e4-872f-3262112a320f",
+                    "boundaryNum": 1,
+                    "name": "Akilpur Babhangawa - WARD 7 Akilpur Babhangawa",
+                    "localname": "Akilpur Babhangawa - WARD 7 Akilpur Babhangawa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c8244bb-3c42-44cb-82b9-af6286d8ae10",
+                "boundaryNum": 1,
+                "name": "Ward 8 - Sonpur Adam",
+                "localname": "Ward 8 - Sonpur Adam",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 8 Sonpur Adam",
+                "children": [
+                  {
+                    "id": "c13d3ab4-3dc2-4504-bac5-9eaac2030dc1",
+                    "boundaryNum": 1,
+                    "name": "Sonpur Adam - WARD 8 Sonpur Adam",
+                    "localname": "Sonpur Adam - WARD 8 Sonpur Adam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "79235e03-e6a6-464d-9718-79bb2e5cd54e",
+                    "boundaryNum": 1,
+                    "name": "DRM Office Road - WARD 8 Sonpur Adam",
+                    "localname": "DRM Office Road - WARD 8 Sonpur Adam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5a13a2bb-4cfc-4c44-aa36-2f9519a671dd",
+                "boundaryNum": 1,
+                "name": "Ward 9 - Barbatta",
+                "localname": "Ward 9 - Barbatta",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 9 Barbatta",
+                "children": [
+                  {
+                    "id": "e50ad18f-4cae-435f-9ecf-939cf1cec643",
+                    "boundaryNum": 1,
+                    "name": "Barbatta Post Office Road - WARD 9 Barbatta",
+                    "localname": "Barbatta Post Office Road - WARD 9 Barbatta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4ddff24a-5964-40e0-b94c-7831d3b5c5cb",
+                    "boundaryNum": 1,
+                    "name": "Station to NH 19 Road - WARD 9 Barbatta",
+                    "localname": "Station to NH 19 Road - WARD 9 Barbatta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc1fb987-04c8-49d7-bf18-d71376d4a3e0",
+                "boundaryNum": 1,
+                "name": "Ward 10 - Barbatta",
+                "localname": "Ward 10 - Barbatta",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 10 Barbatta",
+                "children": [
+                  {
+                    "id": "0cba18cb-c9c7-4bbc-be43-572eb361c1b1",
+                    "boundaryNum": 1,
+                    "name": "Near NH 19 Road - WARD 10 Barbatta",
+                    "localname": "Near NH 19 Road - WARD 10 Barbatta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "15cdc03e-9b93-4efb-9a6c-155222037a3c",
+                    "boundaryNum": 1,
+                    "name": "Near Electicity Road - WARD 10 Barbatta",
+                    "localname": "Near Electicity Road - WARD 10 Barbatta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "829dfd85-2c6e-424f-88b2-8665f5cb1d4c",
+                "boundaryNum": 1,
+                "name": "Ward 11 - Manpur",
+                "localname": "Ward 11 - Manpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 11 Manpur",
+                "children": [
+                  {
+                    "id": "f115d2da-1c18-400d-b1d8-2844f58f7275",
+                    "boundaryNum": 1,
+                    "name": "Manpur - WARD 11 Manpur",
+                    "localname": "Manpur - WARD 11 Manpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9fb8070e-3171-4699-85db-078c2d5960e6",
+                "boundaryNum": 1,
+                "name": "Ward 12 - Sonpur Adam",
+                "localname": "Ward 12 - Sonpur Adam",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 12 Sonpur Adam",
+                "children": [
+                  {
+                    "id": "73ff1fee-f75e-41e2-beda-52b2ff4c74a0",
+                    "boundaryNum": 1,
+                    "name": "Teacher Colony - WARD 12 Sonpur Adam",
+                    "localname": "Teacher Colony - WARD 12 Sonpur Adam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "91f7fa9a-ed75-4f21-a93b-ad858f9ddbf4",
+                    "boundaryNum": 1,
+                    "name": "Pahawan Nagar - WARD 12 Sonpur Adam",
+                    "localname": "Pahawan Nagar - WARD 12 Sonpur Adam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "98cb2ade-9fad-4c89-9725-52c863cb5e64",
+                    "boundaryNum": 1,
+                    "name": "Patel Nagar - WARD 12 Sonpur Adam",
+                    "localname": "Patel Nagar - WARD 12 Sonpur Adam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "91ba25ca-34e9-4ecc-85d1-893c16510ba1",
+                    "boundaryNum": 1,
+                    "name": "SDO Residence Road - WARD 12 Sonpur Adam",
+                    "localname": "SDO Residence Road - WARD 12 Sonpur Adam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "16552c30-c512-48e9-a132-cb7ce0d703a1",
+                "boundaryNum": 1,
+                "name": "Ward 13 - Sonpur Adam",
+                "localname": "Ward 13 - Sonpur Adam",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 13 Sonpur Adam",
+                "children": [
+                  {
+                    "id": "ada0b274-491a-4323-9b2c-a58c50354bd9",
+                    "boundaryNum": 1,
+                    "name": "Sonpur Adam - WARD 13 Sonpur Adam",
+                    "localname": "Sonpur Adam - WARD 13 Sonpur Adam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b03461df-45f3-45de-bfe5-67097f16bddb",
+                    "boundaryNum": 1,
+                    "name": "Bhatta par - WARD 13 Sonpur Adam",
+                    "localname": "Bhatta par - WARD 13 Sonpur Adam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "56787d82-3e44-4760-9ab3-a51d122d0893",
+                    "boundaryNum": 1,
+                    "name": "Mirdaha Kabristan Road - WARD 13 Sonpur Adam",
+                    "localname": "Mirdaha Kabristan Road - WARD 13 Sonpur Adam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f98f643c-815d-4b75-919d-c7a92cd70f75",
+                "boundaryNum": 1,
+                "name": "Ward 14 - Angrezi Bazar",
+                "localname": "Ward 14 - Angrezi Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 14 Angrezi Bazar",
+                "children": [
+                  {
+                    "id": "afe7a0c9-d4df-439a-a8e3-155a0a5f9fd1",
+                    "boundaryNum": 1,
+                    "name": "Kumhar Toli - WARD 14 Angrezi Bazar",
+                    "localname": "Kumhar Toli - WARD 14 Angrezi Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "14709b35-4c45-4af2-94d8-c840d55762c0",
+                    "boundaryNum": 1,
+                    "name": "Angrezi Bazar - WARD 14 Angrezi Bazar",
+                    "localname": "Angrezi Bazar - WARD 14 Angrezi Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC33",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b86ff6f8-d447-4618-ac09-2e6cdfdf5863",
+                "boundaryNum": 1,
+                "name": "Ward 15 - Anandpur",
+                "localname": "Ward 15 - Anandpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 15 Anandpur",
+                "children": [
+                  {
+                    "id": "8c284dbc-794b-403a-87ec-51b08ef13b56",
+                    "boundaryNum": 1,
+                    "name": "Anandpur - WARD 15 Anandpur",
+                    "localname": "Anandpur - WARD 15 Anandpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4e2adb0b-5b71-4904-a036-477d2f6f08f9",
+                    "boundaryNum": 1,
+                    "name": "Bandh Road - WARD 15 Anandpur",
+                    "localname": "Bandh Road - WARD 15 Anandpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC35",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "db2194af-8773-4fa8-aa94-c2faae472c3e",
+                "boundaryNum": 1,
+                "name": "Ward 16 - Swaich",
+                "localname": "Ward 16 - Swaich",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 16 Swaich",
+                "children": [
+                  {
+                    "id": "5229ecc8-8490-4a07-adc3-3cab2ffe4a79",
+                    "boundaryNum": 1,
+                    "name": "Swaich - WARD 16 Swaich",
+                    "localname": "Swaich - WARD 16 Swaich",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC36",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fb7013fb-edde-49e1-ab9d-db8bbc70952b",
+                "boundaryNum": 1,
+                "name": "Ward 17 - Sonpur Keshow Rampur Madho",
+                "localname": "Ward 17 - Sonpur Keshow Rampur Madho",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 17 Sonpur Keshow Rampur Madho",
+                "children": [
+                  {
+                    "id": "56efb372-40c1-4eb1-b04b-5dd8245b3b87",
+                    "boundaryNum": 1,
+                    "name": "Sidhnath Chowk - WARD 17 Sonpur Keshow Rampur Madho",
+                    "localname": "Sidhnath Chowk - WARD 17 Sonpur Keshow Rampur Madho",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0e329747-177d-431a-b278-569aec738d0f",
+                    "boundaryNum": 1,
+                    "name": "Chiriya Bazar - WARD 17 Sonpur Keshow Rampur Madho",
+                    "localname": "Chiriya Bazar - WARD 17 Sonpur Keshow Rampur Madho",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC38",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2da2a7fd-d062-4020-881e-fc6e222748a5",
+                "boundaryNum": 1,
+                "name": "Ward 18 - Sonpur Keshow Rampur Madho",
+                "localname": "Ward 18 - Sonpur Keshow Rampur Madho",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 18 Sonpur Keshow Rampur Madho",
+                "children": [
+                  {
+                    "id": "e3203d06-eb99-4c73-8dcb-7e3bb555e60f",
+                    "boundaryNum": 1,
+                    "name": "Chatrpati Road - WARD 18 Sonpur Keshow Rampur Madho",
+                    "localname": "Chatrpati Road - WARD 18 Sonpur Keshow Rampur Madho",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC39",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d1d1886a-d14d-4fad-bc80-368c826a02f9",
+                "boundaryNum": 1,
+                "name": "Ward 19 - Sonpur Keshow",
+                "localname": "Ward 19 - Sonpur Keshow",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 19 Sonpur Keshow",
+                "children": [
+                  {
+                    "id": "0e22a527-5970-4339-a4a5-488882f4d875",
+                    "boundaryNum": 1,
+                    "name": "Rampur Madho - WARD 19 Sonpur Keshow",
+                    "localname": "Rampur Madho - WARD 19 Sonpur Keshow",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fcdab721-4ff9-4686-b538-aed230cce33c",
+                    "boundaryNum": 1,
+                    "name": "Lakri Bazar - WARD 19 Sonpur Keshow",
+                    "localname": "Lakri Bazar - WARD 19 Sonpur Keshow",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "462a64aa-6ee9-458b-b6da-7c3da5c7a583",
+                    "boundaryNum": 1,
+                    "name": "Nakash - WARD 19 Sonpur Keshow",
+                    "localname": "Nakash - WARD 19 Sonpur Keshow",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC42",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f8a0286e-38cd-4044-beae-9b657c8f0c89",
+                "boundaryNum": 1,
+                "name": "Ward 20 - Bagmirzadil, Bag Raja Man Singh",
+                "localname": "Ward 20 - Bagmirzadil, Bag Raja Man Singh",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 20 Bagmirzadil, Bag Raja Man Singh",
+                "children": [
+                  {
+                    "id": "4d0fe245-b478-445b-ac6c-0b6afcff4b66",
+                    "boundaryNum": 1,
+                    "name": "Bengali Bagh - WARD 20 Bagmirzadil, Bag Raja Man Singh",
+                    "localname": "Bengali Bagh - WARD 20 Bagmirzadil, Bag Raja Man Singh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4a43ad82-3617-4e83-a3d1-940654e72010",
+                    "boundaryNum": 1,
+                    "name": "Vijay path Road - WARD 20 Bagmirzadil, Bag Raja Man Singh",
+                    "localname": "Vijay path Road - WARD 20 Bagmirzadil, Bag Raja Man Singh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e5b35dd3-c32d-4f2d-bf9d-bd583cc09b74",
+                    "boundaryNum": 1,
+                    "name": "Gajgrah Road - WARD 20 Bagmirzadil, Bag Raja Man Singh",
+                    "localname": "Gajgrah Road - WARD 20 Bagmirzadil, Bag Raja Man Singh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC45",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e2a0a032-de65-425a-8082-6c5e519f092f",
+                "boundaryNum": 1,
+                "name": "Ward 21 - Akbarpur",
+                "localname": "Ward 21 - Akbarpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 21 Akbarpur",
+                "children": [
+                  {
+                    "id": "4dba443b-0394-4c2c-8b2c-9ff507ae8ac9",
+                    "boundaryNum": 1,
+                    "name": "Akbarpur - WARD 21 Akbarpur",
+                    "localname": "Akbarpur - WARD 21 Akbarpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC46",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2486e313-21d5-4e54-adca-a01f76b084f2",
+                    "boundaryNum": 1,
+                    "name": "Ginarganj - WARD 21 Akbarpur",
+                    "localname": "Ginarganj - WARD 21 Akbarpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d59a48fe-71ad-4f10-b1b4-f9dfd2b66e32",
+                    "boundaryNum": 1,
+                    "name": "Baba Hariharnath Mandir Road - WARD 21 Akbarpur",
+                    "localname": "Baba Hariharnath Mandir Road - WARD 21 Akbarpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC48",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

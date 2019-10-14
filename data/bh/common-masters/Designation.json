@@ -1,0 +1,156 @@
+{
+  "tenantId": "bh",
+  "moduleName": "common-masters",
+  "Designation": [
+    {
+      "code": "EO01",
+      "name": "Executive Officer",
+      "description": "Executive Officer",
+      "active": true
+    },
+    {
+      "code": "CM01",
+      "name": "City Manager",
+      "description": "City Manager",
+      "active": true
+    },
+    {
+      "code": "HDC01",
+      "name": "Higher Division Clerk",
+      "description": " Higher Division Clerk",
+      "active": true
+    },
+    {
+      "code": "LDC01",
+      "name": "Lower Divisional Clerk",
+      "description": "Lower Divisional Clerk",
+      "active": true
+    },
+    {
+      "code": "TI01",
+      "name": "Tax Inspector",
+      "description": "Tax Inspector",
+      "active": true
+    },
+    {
+      "code": "TC01",
+      "name": "Tax Collector",
+      "description": "Tax Collector",
+      "active": true
+    },
+    {
+      "code": "RI01",
+      "name": "Revenue Inspector",
+      "description": "Revenue Inspector",
+      "active": true
+    },
+    {
+      "code": "SI01",
+      "name": "Sanitory Inspector",
+      "description": "Sanitory Inspector",
+      "active": true
+    },
+    {
+      "code": "SS01",
+      "name": "Sanitory Supervisor",
+      "description": "Sanitory Supervisor",
+      "active": true
+    },
+    {
+      "code": "HC01",
+      "name": "Head Clerk",
+      "description": "Head Clerk",
+      "active": true
+    },
+    {
+      "code": "RO01",
+      "name": "Revenue Officer",
+      "description": "Revenue Officer",
+      "active": true
+    },
+    {
+      "code": "HSI01",
+      "name": "Head Sanitary Inspector",
+      "description": "Head Sanitary Inspector",
+      "active": true
+    },
+    {
+      "code": "MC01",
+      "name": "Municipal Commissioner",
+      "description": "Municipal Commissioner",
+      "active": true
+    },
+    {
+      "code": "AC01",
+      "name": "Additional Commissioner",
+      "description": "Additional Commissioner",
+      "active": true
+    },
+    {
+      "code": "DC01",
+      "name": "Deputy Commissioner",
+      "description": " Deputy Commissioner",
+      "active": true
+    },
+    {
+      "code": "MS01",
+      "name": "Municipal Secretary",
+      "description": "Municipal Secretary",
+      "active": true
+    },
+    {
+      "code": "AMO01",
+      "name": "Asst. Medical Officer",
+      "description": "Asst. Medical Officer",
+      "active": true
+    },
+    {
+      "code": "AHO01",
+      "name": "Animal Husbandry Officer",
+      "description": "Animal Husbandry Officer",
+      "active": true
+    },
+    {
+      "code": "AO01",
+      "name": "Accounts Officer",
+      "description": "Accounts Officer",
+      "active": true
+    },
+    {
+      "code": "MA01",
+      "name": "Municipal Architect",
+      "description": "Municipal Architect",
+      "active": true
+    },
+    {
+      "code": "OS01",
+      "name": "Office Superintendent",
+      "description": "Office Superintendent",
+      "active": true
+    },
+    {
+      "code": "AE01",
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer",
+      "active": true
+    },
+    {
+      "code": "JE01",
+      "name": "Junior Engineer",
+      "description": "Junior Engineer",
+      "active": true
+    },
+    {
+      "code": "SUR01",
+      "name": "Surveyor",
+      "description": "Surveyor",
+      "active": true
+    },
+    {
+      "code": "CME01",
+      "name": "Chief Municipal Engineer",
+      "description": "Chief Municipal Engineer",
+      "active": true
+    }
+  ]
+}
