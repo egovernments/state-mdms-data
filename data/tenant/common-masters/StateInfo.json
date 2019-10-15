@@ -1,0 +1,27 @@
+{
+  "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+  "moduleName": "common-masters",
+  "StateInfo": [
+    {
+      "name": "Bihar",
+      "code":""  , //<ReplaceWithDesiredTenantId>
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Buddha.jpg",
+      "logoUrl":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/mSeva_Bihar.png",
+      "hasLocalisation" : true,
+      "languages" : [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "हिंदी",
+          "value": "hi_IN"
+        }
+      ],
+      "defaultUrl" : {
+          "citizen" : "/user/register",
+          "employee" : "/user/login"
+      }
+    }
+  ]
+}

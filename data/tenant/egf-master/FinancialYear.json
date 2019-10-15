@@ -1,0 +1,132 @@
+{
+    "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+    "moduleName": "egf-master",
+    "FinancialYear": [
+        {
+        "id": "8",
+        "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+        "finYearRange": "2019-20",
+        "name": "2019-20",
+        "code": "2019-20",
+        "startingDate": 1554076800000,
+        "endingDate": 1585699199000,
+        "active": true,
+        "isActiveForPosting": true,
+        "isClosed": false,
+        "transferClosingBalance": false,
+        "module": "TL"
+        },
+        {
+            "id": "7",
+            "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+            "finYearRange": "2018-19",
+            "name": "2018-19",
+            "code": "2018-19",
+            "startingDate": 1522540800000,
+            "endingDate": 1554076799000,
+            "active": false,
+            "isActiveForPosting": false,
+            "isClosed": false,
+            "transferClosingBalance": false,
+            "module": "TL"
+        },
+        {
+            "id": "6",
+            "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+            "finYearRange": "2019-20",
+            "name": "2019-20",
+            "code": "2019-20",
+            "startingDate": 1554076800000,
+            "endingDate": 1585699199000,
+            "active": true,
+            "isActiveForPosting": false,
+            "isClosed": false,
+            "transferClosingBalance": false,
+            "module": "PT"
+        },
+        {
+            "id": "5",
+            "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+            "finYearRange": "2018-19",
+            "name": "2018-19",
+            "code": "2018-19",
+            "startingDate": 1522540800000,
+            "endingDate": 1554076799000,
+            "active": true,
+            "isActiveForPosting": false,
+            "isClosed": false,
+            "transferClosingBalance": false,
+            "module": "PT"
+        },
+        {
+            "id": "4",
+            "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+            "finYearRange": "2017-18",
+            "name": "2017-18",
+            "code": "2017-18",
+            "startingDate": 1491004800000,
+            "endingDate": 1522540799000,
+            "active": true,
+            "isActiveForPosting": true,
+            "isClosed": false,
+            "transferClosingBalance": false,
+            "module": "PT"
+        },
+        {
+            "id": "3",
+            "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+            "finYearRange": "2016-17",
+            "name": "2016-17",
+            "code": "2016-17",
+            "startingDate": 1459468800000,
+            "endingDate": 1491004799000,
+            "active": true,
+            "isActiveForPosting": true,
+            "isClosed": false,
+            "transferClosingBalance": false,
+            "module": "PT"
+        },
+        {
+            "id": "2",
+            "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+            "finYearRange": "2015-16",
+            "name": "2015-16",
+            "code": "2015-16",
+            "startingDate": 1427846400000,
+            "endingDate": 1459468799000,
+            "active": true,
+            "isActiveForPosting": true,
+            "isClosed": false,
+            "transferClosingBalance": false,
+            "module": "PT"
+        },
+        {
+            "id": "1",
+            "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+            "finYearRange": "2014-15",
+            "name": "2014-15",
+            "code": "2014-15",
+            "startingDate": 1396310400000,
+            "endingDate": 1427846399000,
+            "active": true,
+            "isActiveForPosting": true,
+            "isClosed": false,
+            "transferClosingBalance": false,
+            "module": "PT"
+        },
+        {
+            "id": "11",
+            "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+            "finYearRange": "2013-14",
+            "name": "2013-14",
+            "code": "2013-14",
+            "startingDate": 1364774400000,
+            "endingDate": 1396310399000,
+            "active": true,
+            "isActiveForPosting": true,
+            "isClosed": false,
+            "transferClosingBalance": false,
+            "module": "PT"
+        }
+    ]
+}

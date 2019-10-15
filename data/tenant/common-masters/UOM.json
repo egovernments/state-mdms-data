@@ -1,0 +1,10 @@
+{
+    "tenantId": ""  , //<ReplaceWithDesiredTenantId>
+    "moduleName": "common-masters",
+    "UOM": [
+        {
+            "code": "HP",
+            "active": true
+        }
+    ]
+}
