@@ -7,19 +7,19 @@
       "code": "PGR",
       "tenants": [
         {
-          "code": "bh.sonpur"
+          "code": "ch.sonpur"
         },
         {
-          "code": "bh.hajipur"
+          "code": "ch.hajipur"
         },
         {
-          "code": "bh.fatuha"
+          "code": "ch.fatuha"
         },
         {
-          "code": "bh.danapur"
+          "code": "ch.danapur"
         },
         {
-          "code": "bh.biharsharif"
+          "code": "ch.biharsharif"
         }
       ]
     }
