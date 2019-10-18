@@ -1,5 +1,5 @@
 {
-  "tenantId": "bh.sonpur",
+  "tenantId": "ch.sonpur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "bh.sonpur",
+        "code": "ch.sonpur",
         "children": [
           {
             "id": "7020e5b3-9934-4fb5-9fb5-9e0fac093bae",
