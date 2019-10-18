@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenants": [
     {
-      "code": "ch.sonpur",
+      "code": "bh.sonpur",
       "name": "Sonpur",
       "description": "Sonpur",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/bihar-digit-logo.png",
@@ -35,7 +35,7 @@
       "contactNumber": "Not Available"
     },
     {
-      "code": "ch.hajipur",
+      "code": "bh.hajipur",
       "name": "Hajipur",
       "description": "Hajipur",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
@@ -67,7 +67,7 @@
       "contactNumber": "Not Available"
     },
     {
-      "code": "ch.fatuha",
+      "code": "bh.fatuha",
       "name": "Fatuha",
       "description": "Fatuha",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
@@ -99,7 +99,7 @@
       "contactNumber": "Not Available"
     },
     {
-      "code": "ch.danapur",
+      "code": "bh.danapur",
       "name": "Danapur",
       "description": "Danapur",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
@@ -131,7 +131,7 @@
       "contactNumber": "Not Available"
     },
     {
-      "code": "ch.biharsharif",
+      "code": "bh.biharsharif",
       "name": "Bihar Sharif",
       "description": "Bihar Sharif",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
